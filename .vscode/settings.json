@@ -1,0 +1,16 @@
+{
+    
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "git.autofetch": true,
+    "tabnine.experimentalAutoImports": true,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": true,
+    "editor.linkedEditing": true,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "vscode-edge-devtools.webhintInstallNotification": true,
+    "editor.formatOnSaveMode": "modifications",
+    "files.autoSave": "afterDelay"
+}
