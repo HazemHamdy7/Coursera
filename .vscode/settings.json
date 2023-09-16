@@ -1,16 +1,20 @@
 {
-    
-    "workbench.iconTheme": "material-icon-theme",
-    "terminal.integrated.defaultProfile.windows": "Command Prompt",
-    "git.autofetch": true,
-    "tabnine.experimentalAutoImports": true,
-    "git.enableSmartCommit": true,
-    "git.confirmSync": true,
-    "editor.linkedEditing": true,
-    "[html]": {
-        "editor.defaultFormatter": "vscode.html-language-features"
-    },
-    "vscode-edge-devtools.webhintInstallNotification": true,
-    "editor.formatOnSaveMode": "modifications",
-    "files.autoSave": "afterDelay"
+  "workbench.iconTheme": "vscode-icons",
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "git.autofetch": true,
+  "tabnine.experimentalAutoImports": true,
+  "git.enableSmartCommit": true,
+  "git.confirmSync": true,
+  "editor.linkedEditing": true,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "vscode-edge-devtools.webhintInstallNotification": true,
+  "editor.formatOnSaveMode": "modifications",
+  "files.autoSave": "off",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python"
+  },
+  "python.formatting.provider": "none",
+  "python.analysis.typeCheckingMode": "basic"
 }
