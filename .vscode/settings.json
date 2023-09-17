@@ -11,7 +11,7 @@
   },
   "vscode-edge-devtools.webhintInstallNotification": true,
   "editor.formatOnSaveMode": "modifications",
-  "files.autoSave": "off",
+  "files.autoSave": "afterDelay",
   "[python]": {
     "editor.defaultFormatter": "ms-python.python"
   },
