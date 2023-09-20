@@ -12,3 +12,12 @@
 
 # print(isPalindrome('racecars'))
 
+
+order = input("what is needed to make a cup : ")
+print(order)
+
+order2 = input("How many suger need : ")
+print(order2)
+
+order3 = input("Do you want to milk : ")
+print(order3)

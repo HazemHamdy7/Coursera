@@ -27,9 +27,16 @@
 # print(my_list)
 
 
-def calculate_tex(bill , tex):
-    return round((bill * tex) /100.00 , 2 )
+# def calculate_tex(bill , tex):
+#     return round((bill * tex) /100.00 , 2 )
+# bill = input("billl is ")
+# print("Total bill" , calculate_tex(175.00 ,15))
+# print("Total bill" , calculate_tex(163.00 ,25))
 
-print("Total bii" , calculate_tex(175.00 ,15))
-print("Total bii" , calculate_tex(163.00 ,25))
 
+numbers = [15, 30, 47, 82, 95]
+def lesser(numbers):
+   return numbers < 50
+
+small = list(filter(lesser, numbers))
+print(small)
